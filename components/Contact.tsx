@@ -9,19 +9,19 @@ const CONTACT_DETAILS = [
   {
     icon: Icon.Phone,
     label: "Call us",
-    value: "+1 (800) 555-0142",
-    href: "tel:+18005550142",
+    value: "+256 312 200 145",
+    href: "tel:+256312200145",
   },
   {
     icon: Icon.Mail,
     label: "Email us",
-    value: "hello@retirerightadvisory.com",
-    href: "mailto:hello@retirerightadvisory.com",
+    value: "hello@retireright.co.ug",
+    href: "mailto:hello@retireright.co.ug",
   },
   {
     icon: Icon.Pin,
     label: "Visit us",
-    value: "120 Meridian Avenue, Suite 800, Boston, MA",
+    value: "Rwenzori Towers, Nakasero, Kampala, Uganda",
     href: "#",
   },
 ];
@@ -132,7 +132,7 @@ export default function Contact() {
                     <Field label="Email" id="email" type="email" placeholder="jane@email.com" required />
                   </div>
                   <div className="grid gap-4 sm:grid-cols-2">
-                    <Field label="Phone" id="phone" type="tel" placeholder="(555) 000-0000" />
+                    <Field label="Phone" id="phone" type="tel" placeholder="+256 7XX XXX XXX" />
                     <div className="flex flex-col gap-1.5">
                       <label htmlFor="interest" className="text-sm font-semibold text-navy-700 dark:text-navy-200">
                         I&apos;m interested in

@@ -22,9 +22,9 @@ const QUESTIONS: Question[] = [
     id: "savings",
     prompt: "How would you describe your retirement savings?",
     options: [
-      { label: "I haven't started yet", value: 0 },
-      { label: "I save occasionally", value: 1 },
-      { label: "I save consistently", value: 2 },
+      { label: "Only my NSSF, nothing extra", value: 0 },
+      { label: "NSSF plus a little on the side", value: 1 },
+      { label: "I save consistently each month", value: 2 },
       { label: "I'm well ahead of plan", value: 3 },
     ],
   },

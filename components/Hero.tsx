@@ -54,8 +54,8 @@ export default function Hero() {
 
           <Reveal delay={160}>
             <p className="max-w-xl text-lg leading-relaxed text-navy-600 dark:text-navy-200">
-              Helping individuals and organizations build financial security,
-              discover purpose, and enjoy a fulfilling retirement.
+              Helping Ugandans and organisations build financial security
+              beyond NSSF, discover purpose, and enjoy a fulfilling retirement.
             </p>
           </Reveal>
 
@@ -92,8 +92,8 @@ export default function Hero() {
           <div className="relative mx-auto max-w-md lg:max-w-none">
             <div className="overflow-hidden rounded-[2rem] border border-white/40 shadow-glow dark:border-white/10">
               <Image
-                src="https://images.unsplash.com/photo-1556745757-8d76bdb6984b?auto=format&fit=crop&w=900&q=80"
-                alt="Happy retirees enjoying an active, fulfilling life together"
+                src="https://images.unsplash.com/photo-1644041852210-4873f99366be?auto=format&fit=crop&w=900&q=80"
+                alt="A happy young Ugandan couple planning a confident future together"
                 width={900}
                 height={1080}
                 priority
@@ -141,10 +141,10 @@ export default function Hero() {
       <Reveal delay={120} className="container-px mt-16 lg:mt-24">
         <div className="flex flex-col items-center gap-5 rounded-2xl border border-navy-100/70 bg-white/60 px-6 py-6 text-center shadow-soft backdrop-blur dark:border-white/10 dark:bg-navy-900/40 sm:flex-row sm:justify-between sm:text-left">
           <p className="text-sm font-medium uppercase tracking-[0.18em] text-navy-500 dark:text-navy-300">
-            Trusted by professionals, families &amp; forward-thinking organizations
+            Trusted by professionals, families &amp; forward-thinking organisations across Uganda
           </p>
           <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-3 text-navy-400 dark:text-navy-300">
-            {["Northbridge", "Lumen Corp", "Vantage HR", "Cedar Partners"].map(
+            {["Nile Holdings", "Pearl Microfinance", "Savannah Group", "Kabira HR Forum"].map(
               (name) => (
                 <span
                   key={name}

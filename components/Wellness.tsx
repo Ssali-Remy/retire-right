@@ -73,8 +73,8 @@ export default function Wellness() {
             <div className="relative mx-auto max-w-md lg:max-w-none">
               <div className="overflow-hidden rounded-[2rem] shadow-glow">
                 <Image
-                  src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=900&q=80"
-                  alt="Active older adults practicing wellness and staying healthy outdoors"
+                  src="https://images.unsplash.com/photo-1767396857974-bcea08a34eb6?auto=format&fit=crop&w=900&q=80"
+                  alt="An active Ugandan staying healthy and energised outdoors"
                   width={900}
                   height={1040}
                   className="h-full w-full object-cover"

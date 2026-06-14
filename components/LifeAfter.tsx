@@ -12,19 +12,26 @@ const CARDS = [
   {
     icon: Icon.Briefcase,
     title: "Entrepreneurship",
-    items: ["Small businesses", "Consulting", "Mentoring"],
+    items: ["Start a small business", "Farming & agribusiness", "Consulting & mentoring"],
     accent: "from-gold-400/25 to-gold-400/0",
   },
   {
     icon: Icon.Plane,
     title: "Travel & Experiences",
-    items: ["Local & international travel", "Adventure & leisure"],
+    items: [
+      "Explore Uganda — Bwindi, Murchison & the Nile",
+      "Regional trips across East Africa",
+    ],
     accent: "from-navy-400/20 to-navy-400/0",
   },
   {
     icon: Icon.Gift,
     title: "Giving Back",
-    items: ["Charity work", "Community service", "Coaching the next generation"],
+    items: [
+      "Church, mosque & community service",
+      "Supporting your clan and village",
+      "Coaching the next generation",
+    ],
     accent: "from-emerald-500/20 to-emerald-500/0",
   },
   {

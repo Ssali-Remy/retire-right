@@ -24,14 +24,15 @@ export const metadata: Metadata = {
     template: "%s | Retire Right Advisory",
   },
   description:
-    "Retire Right Advisory helps individuals and organizations build financial security, discover purpose, and enjoy a fulfilling retirement. Plan today, thrive tomorrow.",
+    "Retire Right Advisory is a Kampala-based firm helping Ugandans and organisations build financial security beyond NSSF, discover purpose, and enjoy a fulfilling retirement. Plan today, thrive tomorrow.",
   keywords: [
-    "retirement planning",
-    "financial advisory",
-    "investment advisory",
+    "retirement planning Uganda",
+    "NSSF retirement",
+    "financial advisory Kampala",
+    "investment advisory Uganda",
     "retirement readiness",
     "corporate retirement programs",
-    "financial wellness",
+    "financial wellness Uganda",
     "life after retirement",
   ],
   authors: [{ name: "Retire Right Advisory" }],
@@ -40,14 +41,15 @@ export const metadata: Metadata = {
     url: SITE_URL,
     title: "Retire Right Advisory — Plan Today. Thrive Tomorrow.",
     description:
-      "Build financial security, discover purpose, and enjoy a fulfilling retirement.",
+      "Uganda's partner for building financial security beyond NSSF, discovering purpose, and enjoying a fulfilling retirement.",
     siteName: "Retire Right Advisory",
+    locale: "en_UG",
   },
   twitter: {
     card: "summary_large_image",
     title: "Retire Right Advisory — Plan Today. Thrive Tomorrow.",
     description:
-      "Build financial security, discover purpose, and enjoy a fulfilling retirement.",
+      "Uganda's partner for building financial security beyond NSSF and enjoying a fulfilling retirement.",
   },
   robots: { index: true, follow: true },
 };

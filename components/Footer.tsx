@@ -51,8 +51,9 @@ export default function Footer() {
               </span>
             </div>
             <p className="mt-5 max-w-xs text-sm leading-relaxed text-navy-600 dark:text-navy-300">
-              Helping individuals and organizations build financial security,
-              discover purpose, and enjoy a fulfilling retirement.
+              Helping Ugandans and organisations build financial security,
+              discover purpose, and enjoy a fulfilling retirement. Based in
+              Kampala, serving all of Uganda.
             </p>
             <div className="mt-6 flex gap-2.5">
               {["LinkedIn", "Instagram", "Facebook", "YouTube"].map((s) => (

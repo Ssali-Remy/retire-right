@@ -11,7 +11,11 @@ const FAQS = [
   },
   {
     q: "Do I need a lot of money to work with Retire Right Advisory?",
-    a: "Not at all. We work with people across every income level and life stage. Our goal is to help you make the most of what you have and build a confident, realistic path forward.",
+    a: "Not at all. We work with Ugandans across every income level and life stage — whether you're saving a few thousand shillings a month or managing a larger portfolio. Our goal is to help you make the most of what you have and build a confident, realistic path forward.",
+  },
+  {
+    q: "Is NSSF enough to retire comfortably?",
+    a: "For most people, NSSF is an important foundation but not the full picture. We help you understand your NSSF benefits and build additional income through voluntary savings, treasury bonds, unit trusts, SACCOs, land, and other options suited to your goals.",
   },
   {
     q: "What makes your approach different?",

@@ -6,30 +6,30 @@ import { Icon } from "./icons";
 const POSTS = [
   {
     category: "Retirement Planning",
-    title: "The 5 milestones every retirement plan should hit by 50",
+    title: "Beyond NSSF: building real retirement income in Uganda",
     excerpt:
-      "A decade-by-decade checklist to keep your retirement on track — and what to do if you're behind.",
+      "Why your NSSF savings alone may not be enough — and the simple steps to close the gap before you retire.",
     read: "6 min read",
     image:
-      "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1611432579402-7037e3e2c1e4?auto=format&fit=crop&w=800&q=80",
   },
   {
     category: "Investments",
-    title: "Diversification after 55: protecting what you've built",
+    title: "Treasury bonds, unit trusts or land? A Ugandan's guide",
     excerpt:
-      "How to shift from growth to preservation without sacrificing the income you'll need.",
+      "Comparing the most popular ways to grow your shillings — and how to balance them for steady, lower-risk returns.",
     read: "5 min read",
     image:
-      "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1573497019418-b400bb3ab074?auto=format&fit=crop&w=800&q=80",
   },
   {
     category: "Healthy Aging",
     title: "Why purpose may be the most powerful longevity habit",
     excerpt:
-      "Research shows a strong sense of purpose can add years to your life. Here's how to find yours.",
+      "From the village to the city, a strong sense of purpose can add years to your life. Here's how to find yours.",
     read: "7 min read",
     image:
-      "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1504199367641-aba8151af406?auto=format&fit=crop&w=800&q=80",
   },
 ];
 

@@ -57,21 +57,21 @@ function Metric({
 const STORIES = [
   {
     quote:
-      "Their corporate workshop transformed how our employees see retirement. Engagement and confidence soared.",
-    name: "Priya N.",
-    role: "Head of People, Vantage HR",
+      "Their workshop transformed how our staff see retirement. Engagement and confidence soared across the whole team.",
+    name: "Sarah Namutebi",
+    role: "Head of People, Savannah Group",
   },
   {
     quote:
-      "I went from anxious about money to excited about the future. I finally have a plan I understand and trust.",
-    name: "Robert M.",
-    role: "Early retiree",
+      "I went from anxious about money to excited about the future. I finally have a plan in shillings I understand and trust.",
+    name: "Robert Mugisha",
+    role: "Early retiree, Mbarara",
   },
   {
     quote:
-      "The team helped me turn 30 years of experience into a thriving consulting practice. Retirement felt like a promotion.",
-    name: "Helen T.",
-    role: "Independent consultant",
+      "The team helped me turn 30 years of experience into a thriving consultancy. Retirement felt like a promotion.",
+    name: "Hellen Atim",
+    role: "Independent consultant, Kampala",
   },
 ];
 

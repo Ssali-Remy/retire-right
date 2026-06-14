@@ -40,8 +40,8 @@ export default function About() {
             <div className="relative">
               <div className="overflow-hidden rounded-[2rem] shadow-soft">
                 <Image
-                  src="https://images.unsplash.com/photo-1573497620053-ea5300f94f21?auto=format&fit=crop&w=900&q=80"
-                  alt="Retire Right Advisory consultant guiding a client through their plan"
+                  src="https://images.unsplash.com/photo-1655720357872-ce227e4164ba?auto=format&fit=crop&w=900&q=80"
+                  alt="A Retire Right Advisory consultant guiding Ugandan clients through their retirement plan"
                   width={900}
                   height={760}
                   className="h-full w-full object-cover"
@@ -62,8 +62,8 @@ export default function About() {
             <SectionHeading
               align="left"
               eyebrow="About Us"
-              title="A trusted partner for the most important chapter of your life"
-              description="Retire Right Advisory helps people prepare financially, socially, and physically for retirement — so the years ahead feel like a beginning, not an ending."
+              title="A trusted Ugandan partner for the most important chapter of your life"
+              description="From Kampala to every corner of Uganda, Retire Right Advisory helps people prepare financially, socially, and physically for retirement — looking beyond NSSF to build a future where the years ahead feel like a beginning, not an ending."
             />
 
             <Reveal delay={120}>

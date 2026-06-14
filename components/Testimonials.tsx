@@ -8,29 +8,29 @@ const ITEMS = [
   {
     quote:
       "Retire Right Advisory gave me a plan I actually understand. For the first time, I feel genuinely excited about retiring — not afraid of it.",
-    name: "Susan A.",
-    role: "Marketing executive, age 58",
+    name: "Susan Nabukenya",
+    role: "Marketing manager, Kampala · age 58",
     rating: 5,
   },
   {
     quote:
-      "As a young professional, starting early felt overwhelming. They made it simple and motivating. I'm now years ahead of where I thought I'd be.",
-    name: "Daniel R.",
-    role: "Software engineer, age 31",
+      "As a young professional, starting early felt overwhelming. They showed me how to grow my money beyond NSSF. I'm now years ahead of where I thought I'd be.",
+    name: "Daniel Wasswa",
+    role: "Software engineer, Ntinda · age 31",
     rating: 5,
   },
   {
     quote:
-      "We rolled out their financial wellness program company-wide. Our employees finally feel supported in planning their futures.",
-    name: "Amara J.",
-    role: "CHRO, Lumen Corp",
+      "We rolled out their financial wellness programme across the company. Our staff finally feel supported in planning their futures.",
+    name: "Amina Nalwoga",
+    role: "HR Director, Nile Holdings",
     rating: 5,
   },
   {
     quote:
-      "After 35 years in one career, I had no idea what came next. Their lifestyle assessment helped me launch a passion project I love.",
-    name: "George W.",
-    role: "Retired engineer, age 64",
+      "After 35 years in the civil service, I had no idea what came next. Their lifestyle assessment helped me start a farm I now love.",
+    name: "George Byaruhanga",
+    role: "Retired civil servant, Fort Portal · age 64",
     rating: 5,
   },
 ];

@@ -34,14 +34,14 @@ const TESTIMONIALS = [
   {
     quote:
       "I retired worried about losing my sense of purpose. The community gave me a second family and a calendar full of joy.",
-    name: "Margaret O.",
-    role: "Retired educator",
+    name: "Margaret Nakato",
+    role: "Retired head teacher, Mukono",
   },
   {
     quote:
-      "The mentorship program let me keep contributing. I coach young entrepreneurs every week — it's the best part of my retirement.",
-    name: "David K.",
-    role: "Former operations director",
+      "The mentorship programme let me keep contributing. I coach young entrepreneurs in Kampala every week — it's the best part of my retirement.",
+    name: "David Okello",
+    role: "Former operations manager, Gulu",
   },
 ];
 
